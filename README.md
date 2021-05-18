@@ -1,1 +1,5 @@
 - 👋 Hi, I’m Mikhail Kovtun
+- 🔍 I’m currently learning C# and Unity
+- 👨‍🏭 I work as a geophysical engineer in the oil industry
+- 👾 but I want to make games))
+- 📩 You can reach me via email or via telegram @sirevall
